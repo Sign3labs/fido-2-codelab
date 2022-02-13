@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fido-2-codelab.iml" filepath="$PROJECT_DIR$/.idea/modules/fido-2-codelab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/fido-2-codelab.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/fido-2-codelab.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-start/fido-2-codelab.app-start.iml" filepath="$PROJECT_DIR$/.idea/modules/app-start/fido-2-codelab.app-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-start-2/fido-2-codelab.app-start-2.iml" filepath="$PROJECT_DIR$/.idea/modules/app-start-2/fido-2-codelab.app-start-2.iml" />
+    </modules>
+  </component>
+</project>
